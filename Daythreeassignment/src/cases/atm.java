@@ -1,7 +1,7 @@
 package cases;
 import java.util.Scanner;
 
-public class atm {
+public class atm { 
 	
 
 	
